@@ -2,10 +2,10 @@
 
 Repositório criado para armazenar exercícios, exemplos e projetos desenvolvidos durante meu aprendizado da linguagem **Go**.
 
-## 📘 Objetivo
+## Objetivo
 Aprender e praticar os principais conceitos da linguagem Go de forma estruturada e progressiva.
 
-## 🚀 Conteúdo
+## Conteúdo
 - Sintaxe e estrutura básica  
 - Funções e pacotes  
 - Arrays, slices e maps  
@@ -13,11 +13,11 @@ Aprender e praticar os principais conceitos da linguagem Go de forma estruturada
 - Concorrência com goroutines e channels  
 - Projetos práticos  
 
-## 🧠 Tecnologias
+## Tecnologias
 - [Go](https://go.dev/) — Linguagem principal  
 
-## 📂 Organização
+## Organização
 Cada pasta contém um módulo, aula ou projeto do curso, com código comentado e exemplos de uso.
 
-## 📅 Status
+## Status
 Em andamento ⏳
